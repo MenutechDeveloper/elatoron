@@ -17,6 +17,8 @@ body {
 
 .portada {
   background: url("https://menutechdeveloper.github.io/bddImg/assets/img/fachadaatoron.jpg");
+  backgroun-size:cover;
+  background-position:center;
   width: 98%;
   height:450px;
   margin:auto;
