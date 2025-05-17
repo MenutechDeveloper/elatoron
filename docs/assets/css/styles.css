@@ -2,7 +2,7 @@ body {
   overflow-x: hidden;
   max-width: 1200px;
   margin: auto;
-  margin-top:5px;
+  background:white;
 }
 
 .navbar img {
