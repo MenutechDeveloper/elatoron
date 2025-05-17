@@ -2,6 +2,7 @@ body {
   overflow-x: hidden;
   max-width: 1200px;
   margin: auto;
+  margin-top:5px;
 }
 
 .navbar img {
@@ -16,8 +17,10 @@ body {
 
 .portada {
   background: url("https://menutechdeveloper.github.io/bddImg/assets/img/fachadaatoron.jpg");
-  width: 100%;
+  width: 98%;
   height:450px;
+  margin:auto;
+  text-align:center;
 }
 
 @media (max-width: 992px) {
